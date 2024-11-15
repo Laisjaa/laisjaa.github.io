@@ -3,4 +3,4 @@
 
 You can view the full rendered Bookdown content here:
 
-[Full Book](_books/index.html)
+[Full Book](_book/index.html)
